@@ -1,0 +1,8 @@
+camelot 
+ghostscript 
+fitz
+PDFNetPython3
+docx2pdf 
+io
+Pillow
+regex
